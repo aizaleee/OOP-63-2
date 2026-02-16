@@ -8,7 +8,10 @@ git remote add origin https://github.com/aizaleee/OOP-63-2.git
 
 основные команды
 git status 
-git add . | скопировать все в буфер обмена
+git add . | выделяет все изменения
+git commit -m "lesson1"  | сохраняет все изменения
+git branch | to see what branch u on
+gti push origin branch_name
 
 
 git switch -c branch_name
