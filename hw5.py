@@ -44,4 +44,4 @@ admin_user = User("Aiz", "admin")
 usual_user = User("Papa", "user")
 
 delete_database(admin_user)  
-delete_database(usual_user)
+delete_database(usual_user) 
