@@ -1,0 +1,49 @@
+команды для регистрации ваших данных
+git config --global user.name "my user name"
+git config --globl user.email "your--emaill@example.com"
+
+команды для решисьоацттт ваших данных
+git init
+git remote add origin https://github.com/aizaleee/OOP-63-2.git
+
+основные команды
+git status 
+git add . | выделяет все изменения
+git commit -m "lesson1"  | сохраняет все изменения
+git branch | to see what branch u on
+gti push origin branch_name
+
+git branch branch_name
+git switch branch_name
+
+
+
+git switch -c branch_name
+git checkout -b branch_name
+
+
+git reset .
+git restore .
+
+
+git pull 
+
+
+
+production
+
+-- Realise:1.0.0.1
+
+test|stage|
+
+dev
+
+feat/register
+feat/send_otp
+feat/...
+
+-m "feat : register added new file register.py #link"
+-m "fix :fixed ..."
+
+
+git rm -r ...(path)
